@@ -37,7 +37,7 @@ public:
 int main() 
 {
 	terminal map1;
-    cout << "Hello world" << endl;
+	cout << "Hello world" << endl;
 	map1.draw();
 
 }
